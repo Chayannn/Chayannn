@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayannn&label=Profile%20views&color=0e75b6&style=flat" alt="chayannn" /> </p>
 
-- 🔭 I’m currently working on **Quora Clone**
+<p align="left"> <a href="https://twitter.com/@chayanpanda11" target="blank"><img src="https://img.shields.io/twitter/follow/@chayanpanda11?logo=twitter&style=for-the-badge" alt="@chayanpanda11" /></a> </p>
+
+- 🔭 I’m currently working on **Youtube Clone**
 
 - 🌱 I’m currently learning **React**
 
