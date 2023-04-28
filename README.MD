@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayannn&label=Profile%20views&color=0e75b6&style=flat" alt="chayannn" /> </p>
 
-- 🔭 I’m currently working on **LinkedIn Clone**
+- 🔭 I’m currently working on **Quora Clone**
 
 - 🌱 I’m currently learning **React**
 
