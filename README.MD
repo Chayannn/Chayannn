@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayan</h1>
-<h3 align="center">I am a full-stack developer from India. No, I am not an entire engineering team. I have a basic understanding of how the web works.</h3>
+<h3 align="center">A Full-stack developer from India. No!!! I am not an entire engineering team. I have a basic understanding of how the web works.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayannn&label=Profile%20views&color=0e75b6&style=flat" alt="chayannn" /> </p>
 
