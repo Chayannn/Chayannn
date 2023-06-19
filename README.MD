@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fillunise&psig=AOvVaw2pEKydULanRfJNlLxz_nqf&ust=1687288830054000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD69eyG0P8CFQAAAAAdAAAAABBX)
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi 👋, I'm Chayan</h1>
 <h3 align="center">A Full-stack developer from India. No!!! I am not an entire engineering team. I have a basic understanding of how the web works.</h3>
