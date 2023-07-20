@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **chayanp188@gmail.com**
 
