@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/chayanpanda11" target="blank"><img src="https://img.shields.io/twitter/follow/chayanpanda11?logo=twitter&style=for-the-badge" alt="chayanpanda11" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **MERN**
 
